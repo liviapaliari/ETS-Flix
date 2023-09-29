@@ -1,0 +1,13 @@
+package br.bosch.ETSFlix;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EtsFlixApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
